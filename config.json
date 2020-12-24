@@ -2,7 +2,7 @@
     "database": {
         "host": "irmkr4747.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "iremkar13",
+        "user": "iremkar13@irmkr4747",
         "password": "bctyZi13?",
         "ssl": "require"
     }
